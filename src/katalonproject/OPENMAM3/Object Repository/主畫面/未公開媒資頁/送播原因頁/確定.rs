@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>確定</name>
+   <tag></tag>
+   <elementGuidId>78373e50-df2b-4b6d-bba6-67281e3b5235</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = '送 出' or . = '送 出')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class, 'ant-modal') and .//div[text()='送播原因']]//div[@class='ant-modal-footer']//button[contains(@class, 'ant-btn-primary')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//div[@class=&quot;ant-modal-footer&quot;]//button[text()='送出']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b4a914d6-16c7-40e5-a235-eaa4d4d37691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e4a2bef-a93a-4c99-949d-1f8ce449bdd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary</value>
+      <webElementGuid>8f62c5a8-1484-4b10-a6af-4702651b6d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>確 定</value>
+      <webElementGuid>6b5395d5-dc3b-4dc2-a687-f3289678e3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class, 'ant-modal') and .//div[text()='送播原因']]//div[@class='ant-modal-footer']//button[contains(@class, 'ant-btn-primary')]</value>
+      <webElementGuid>831f83e6-d16c-4bc5-91b8-c31e180ec555</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[41]</value>
+      <webElementGuid>a55538c2-9793-4f83-ac90-cb26c47c801d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='取 消'])[3]/following::button[1]</value>
+      <webElementGuid>5c6bfeb5-8b84-4678-aa2e-8e1189f237e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='共 1 筆資料'])[1]/following::button[4]</value>
+      <webElementGuid>8753ee42-4edf-449f-bfd1-252ff05f995e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[3]/button[2]</value>
+      <webElementGuid>8df770ac-451d-4078-8d90-f326b77cc0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '送 出' or . = '送 出')]</value>
+      <webElementGuid>c4db462f-3d8b-48b1-9c18-06d274f1173b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

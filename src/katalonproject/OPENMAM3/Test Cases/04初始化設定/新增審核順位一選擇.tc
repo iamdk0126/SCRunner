@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增審核順位一選擇</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0cd717b-fe31-46c6-a85e-ba52c7818791</testCaseGuid>
+</TestCaseEntity>

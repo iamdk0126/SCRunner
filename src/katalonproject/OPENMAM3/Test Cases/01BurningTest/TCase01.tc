@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>TCase01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d0c54e8-5885-4b50-9656-35982024a66d</testCaseGuid>
+</TestCaseEntity>

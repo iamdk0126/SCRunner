@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調無列管-剪輯一鍵回調-核准)</description>
+   <name>L2剪輯一鍵回調</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb6f12cb-be9a-4486-af7e-4483b5e834f2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>itemd6</name>
+   <tag></tag>
+   <elementGuidId>b2f42301-f470-4ea0-a9d7-4a80cfbd7e8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/main/div/div[2]/div[3]/div/div/div/div/div/div[2]/table/tbody/tr[7]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>24a5076a-e6e7-4209-8d3d-ce0c92319228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover</value>
+      <webElementGuid>37e4e293-8172-4527-abbc-81d95269a81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout ant-layout-has-sider layout___1XhSp&quot;]/main[@class=&quot;ant-layout-content content___2QN8t&quot;]/div[@class=&quot;container___3m-sV&quot;]/div[@class=&quot;list-area___etYhH&quot;]/div[3]/div[@class=&quot;ant-table-wrapper small-table&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-ping-right ant-table-fixed-header ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-right&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0 table-row-selected odd-row&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-ellipsis ant-table-cell-row-hover&quot;]</value>
+      <webElementGuid>57ffcbdf-72d7-4ab2-8714-fbfe83fd5457</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[2]/div[3]/div/div/div/div/div/div[2]/table/tbody/tr[7]/td[4]</value>
+      <webElementGuid>71575334-aa66-4228-9b57-32eba75438cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='政治'])[6]/following::td[1]</value>
+      <webElementGuid>fbf0bb32-3a86-4d18-ad1e-ee3ad25c1a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='送 出'])[5]/following::td[4]</value>
+      <webElementGuid>a79a96f1-4339-4bd1-910a-369cdadb0034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='送 出'])[6]/preceding::td[18]</value>
+      <webElementGuid>a1559bcb-9300-4eed-8478-eb1f0ac33a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='政治'])[7]/preceding::td[21]</value>
+      <webElementGuid>7d25a921-7a6e-4fff-9e42-2bf2f5f36645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[4]</value>
+      <webElementGuid>9abe7066-8584-4eba-b2ba-066551f0ee05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>播放中間</name>
+   <tag></tag>
+   <elementGuidId>2396f7f0-f644-45b0-a5ca-16647afbe0cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='送 出'])[11]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;:r3:&quot;)/xg-start[@class=&quot;xgplayer-start&quot;]/xg-start-inner[1]/svg[@class=&quot;play xg-icon-play&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.play.xg-icon-play</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>45b0f87d-b9a8-4d56-83eb-18bff5fa6e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>4b6c5b80-7596-47b6-8b27-047906501db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>play xg-icon-play</value>
+      <webElementGuid>e28a02dd-33d9-4c22-a843-1e0104429ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>020417e1-7e05-4256-a1c3-e05b2526a206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>e1691237-4b00-4a35-8135-21a678e2c5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>3 -4 28 40</value>
+      <webElementGuid>d612df9b-1ac9-4cf0-8f70-d6670aabd505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r3:&quot;)/xg-start[@class=&quot;xgplayer-start&quot;]/xg-start-inner[1]/svg[@class=&quot;play xg-icon-play&quot;]</value>
+      <webElementGuid>23cfe3c9-6911-4d7d-870e-9941c91f553c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='送 出'])[11]/following::*[name()='svg'][2]</value>
+      <webElementGuid>99c98958-2c1f-4215-8e1e-96607a5bf291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='尚未送出'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>111c7b6a-7422-4685-8bab-b245061ebe83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>b1178900-fc76-4b2f-9e0f-a66fce8e07c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fullscreen'])[1]/preceding::*[name()='svg'][6]</value>
+      <webElementGuid>99925bce-cd33-4d80-891e-a49d682d3094</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

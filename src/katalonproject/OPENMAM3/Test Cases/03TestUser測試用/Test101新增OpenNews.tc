@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101新增OpenNews</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b71f5d3-5396-4ba5-bec4-de8508f8eb1c</testCaseGuid>
+</TestCaseEntity>

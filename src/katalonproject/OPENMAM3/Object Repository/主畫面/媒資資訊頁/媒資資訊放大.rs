@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>媒資資訊放大</name>
+   <tag></tag>
+   <elementGuidId>c4079bee-07ae-4cb2-aed5-af13d2119308</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[41]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-tabs-extra-content > button.ant-btn.ant-btn-default.ant-btn-icon-only</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15ec9b48-48b9-43f1-b61d-bae2f62ed594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>644a5e0d-8a32-4a63-9eda-5e965d0ee0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default ant-btn-icon-only</value>
+      <webElementGuid>a0686efd-e100-4d52-a35a-aea3fd4923ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout ant-layout-has-sider layout___1XhSp&quot;]/main[@class=&quot;ant-layout-content content___2QN8t&quot;]/div[@class=&quot;container___3m-sV&quot;]/div[@class=&quot;container___3ScZ5&quot;]/div[@class=&quot;body___foP1K container___35AWl&quot;]/div[@class=&quot;ant-tabs ant-tabs-top info-tab___3TIeo&quot;]/div[@class=&quot;ant-tabs-nav&quot;]/div[@class=&quot;ant-tabs-extra-content&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-icon-only&quot;]</value>
+      <webElementGuid>2650d940-5cb7-4cb1-a408-cf898f971715</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[41]</value>
+      <webElementGuid>9582c064-410a-4224-bbe5-6ee5484597d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[3]/div[2]/div[4]/div/div[3]/button</value>
+      <webElementGuid>94cf5cd6-8886-4534-9627-e6eb3fa75b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QC報告'])[1]/following::button[2]</value>
+      <webElementGuid>87f74f2b-0a7e-4e8e-9e36-f74a3d89ad4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='列管資訊'])[1]/following::button[2]</value>
+      <webElementGuid>44c62844-1fa1-4331-9995-3be59475ffdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='媒資分類'])[3]/preceding::button[1]</value>
+      <webElementGuid>2e2a8b96-51c6-4296-ab25-317d1d16ca59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='政治'])[7]/preceding::button[1]</value>
+      <webElementGuid>386c0d83-93e8-41a1-aec3-179fcfbe7817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>e27808b2-25f1-42dc-96bd-a843f9fd3308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>85cd1fdd-9b51-489c-8665-3b2f48aa97d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

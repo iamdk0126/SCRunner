@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>檢視預覽公開媒資</description>
+   <name>Stress03-4檢視預覽公開媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f3e7221-24c9-4c28-b61b-eb2f7cbcb96a</testCaseGuid>
+</TestCaseEntity>

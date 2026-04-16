@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增OpenNews</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa0a87e7-390a-4c29-9e90-6f62e3e6311c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>個人化設定</description>
+   <name>Case02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4f65d4a-dc65-4a15-9920-d3eb28c92e82</testCaseGuid>
+</TestCaseEntity>

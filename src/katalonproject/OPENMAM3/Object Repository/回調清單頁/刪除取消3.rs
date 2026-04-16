@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>刪除取消3</name>
+   <tag></tag>
+   <elementGuidId>245f6190-cec4-4061-bc6e-b3fb5133d347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[60]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(7) > div > div.ant-popover.ant-popconfirm.ant-popover-placement-top > div.ant-popover-content > div.ant-popover-inner > div.ant-popover-inner-content > div.ant-popover-buttons > button.ant-btn.ant-btn-default.ant-btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>06d178e0-f6bb-46c3-9b36-ade2742808eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>13d9e4ec-b242-4f40-8b99-d7c3ac06e574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default ant-btn-sm</value>
+      <webElementGuid>a5abe2bd-49c7-4a5d-9e98-e0e28addb731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>取 消</value>
+      <webElementGuid>9cb27262-0df0-4cd6-8424-b6ff772c6f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[7]/div[1]/div[@class=&quot;ant-popover ant-popconfirm ant-popover-placement-top&quot;]/div[@class=&quot;ant-popover-content&quot;]/div[@class=&quot;ant-popover-inner&quot;]/div[@class=&quot;ant-popover-inner-content&quot;]/div[@class=&quot;ant-popover-buttons&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-sm&quot;]</value>
+      <webElementGuid>90dac452-b868-41db-8c78-1c7ed72706ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[60]</value>
+      <webElementGuid>fba24d93-16ed-471b-8ec6-a0852576d07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確定刪除?'])[3]/following::button[1]</value>
+      <webElementGuid>6f44f68e-68f9-418a-97c5-f19ff6341f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確 定'])[2]/following::button[1]</value>
+      <webElementGuid>af330803-abb8-48de-a659-fe2b627ba333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確 定'])[3]/preceding::button[1]</value>
+      <webElementGuid>b4a457bc-490b-40c3-b437-2316fbfc2b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>f7511ec4-cdd3-4b5b-889c-c7582b648617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '取 消' or . = '取 消')]</value>
+      <webElementGuid>0462f16c-d128-4906-a131-4e9d281432fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

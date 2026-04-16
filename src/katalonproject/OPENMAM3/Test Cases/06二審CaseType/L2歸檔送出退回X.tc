@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>L2歸檔送出退回X</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5c2cc2a-3ebf-4102-a24a-4d903df692fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e66b14b-fec4-43ec-b4a3-6c7835618001</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e66b14b-fec4-43ec-b4a3-6c7835618001</id>
+      <masked>false</masked>
+      <name>keywordParam</name>
+   </variable>
+</TestCaseEntity>

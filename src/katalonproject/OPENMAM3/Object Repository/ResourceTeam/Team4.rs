@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Team4</name>
+   <tag></tag>
+   <elementGuidId>d1a4f778-3102-479a-ae71-d100aeada918</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-tabs-tab.ant-tabs-tab-active</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-node-key = '4']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/main/div/div[2]/div/header/div/div/div/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2532272-d986-47c3-aafa-e0638699fc62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-node-key</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>c98eb8d1-b563-4a3f-84ee-5f2453f11655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tabs-tab ant-tabs-tab-active</value>
+      <webElementGuid>9d7dea73-534d-435f-984c-45bbdb75df99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>體育部</value>
+      <webElementGuid>4553e4b0-57f9-4086-84fe-e06de43f5414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout layout___1XhSp&quot;]/main[@class=&quot;ant-layout-content content___2QN8t&quot;]/div[@class=&quot;container___1GLJy&quot;]/div[@class=&quot;content___1ggE2&quot;]/div[1]/header[@class=&quot;container___2qeJB&quot;]/div[@class=&quot;tabs-wrapper___1xARp&quot;]/div[@class=&quot;ant-tabs ant-tabs-top&quot;]/div[@class=&quot;ant-tabs-nav&quot;]/div[@class=&quot;ant-tabs-nav-wrap&quot;]/div[@class=&quot;ant-tabs-nav-list&quot;]/div[@class=&quot;ant-tabs-tab ant-tabs-tab-active&quot;]</value>
+      <webElementGuid>fcc55cb3-299a-4571-a7ba-53c9876aa771</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[2]/div/header/div/div/div/div/div/div[4]</value>
+      <webElementGuid>9069bd47-b774-4637-ad6b-878c367ac3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='測試部'])[1]/following::div[1]</value>
+      <webElementGuid>d0279c09-3dfc-4224-bfc0-2e0c818b4f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='節目部'])[1]/following::div[3]</value>
+      <webElementGuid>65028cd2-455e-4826-a94a-bf9f5d936b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='啟用系統'])[1]/preceding::div[11]</value>
+      <webElementGuid>243160c1-bac2-4b52-b257-31c65d6903c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>79fec7c4-37fa-4f98-9a11-86f0e35a97b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '體育部' or . = '體育部')]</value>
+      <webElementGuid>b135ec72-4309-4db5-9e98-f8822fc7a083</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

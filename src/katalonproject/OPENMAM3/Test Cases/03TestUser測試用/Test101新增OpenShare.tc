@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101新增OpenShare</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f252f012-d007-496c-a093-7c06921d817b</testCaseGuid>
+</TestCaseEntity>

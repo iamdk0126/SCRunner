@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selector</name>
+   <tag></tag>
+   <elementGuidId>1443f766-8fe4-4317-aaa1-99147f264c90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='metaId_-1']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class, 'ant-form-item')][.//label[@title='媒資分類' or normalize-space()='媒資分類']]//div[contains(@class, 'ant-select-selector')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-in-form-item.ant-select-single.ant-select-show-arrow > div.ant-select-selector</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e91a3fb-3b28-4689-bad8-2b81ab906545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>c2f4d8a5-b485-498a-b542-69637e6b4260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>國際I</value>
+      <webElementGuid>65594820-1859-430b-b654-46bc0a033755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class, 'ant-form-item')][.//label[@title='媒資分類' or normalize-space()='媒資分類']]//div[contains(@class, 'ant-select-selector')]</value>
+      <webElementGuid>a1942e0f-2901-4b86-a2f4-ee09b14a0ff1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metaId_-1']/div/div/div/div</value>
+      <webElementGuid>1bbc7365-ab8e-4960-93c8-894e9852171d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='媒資分類'])[3]/following::div[8]</value>
+      <webElementGuid>f7fdba34-2785-474a-b81d-b910015c1737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='編輯媒資'])[1]/following::div[17]</value>
+      <webElementGuid>6b561dea-3112-4c95-8dd1-d3c647962586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='名稱'])[2]/preceding::div[1]</value>
+      <webElementGuid>02ce4a6c-8478-4fa6-8731-8b1ca8d5baf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>4d35fdb8-d856-4fe7-8117-7581214f9375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '國際I' or . = '國際I')]</value>
+      <webElementGuid>a2434772-d8fa-4126-aa4d-76c18154a016</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

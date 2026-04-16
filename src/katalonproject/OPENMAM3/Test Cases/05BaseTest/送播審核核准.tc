@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>送播審核核准</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f61cd19a-1170-4fb0-a3e6-855f82bde00b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22ddeb87-10a2-4aa4-b3c0-0602671840b9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22ddeb87-10a2-4aa4-b3c0-0602671840b9</id>
+      <masked>false</masked>
+      <name>keywordParam</name>
+   </variable>
+</TestCaseEntity>

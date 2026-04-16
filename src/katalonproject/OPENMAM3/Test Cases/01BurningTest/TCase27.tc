@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調無列管-剪輯媒資回調-退回)</description>
+   <name>TCase27</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46712cf0-1636-4310-a312-0aea138e963c</testCaseGuid>
+</TestCaseEntity>

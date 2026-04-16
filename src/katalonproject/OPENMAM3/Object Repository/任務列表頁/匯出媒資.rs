@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>匯出媒資</name>
+   <tag></tag>
+   <elementGuidId>3ae18030-7a09-41ab-b49c-3763ae0f9553</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/main/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@role = 'menuitem' and (contains(text(), '匯出媒資') or contains(., '匯出媒資'))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active.ant-menu-item-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e8b6207-9fc7-428c-a66d-cf57e14a667f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>匯出媒資</value>
+      <webElementGuid>b9c1918c-ef16-4cb1-a088-2e9891a13e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@role = 'menuitem' and (contains(text(), '匯出媒資') or contains(., '匯出媒資'))]</value>
+      <webElementGuid>165e33ba-f2bb-4ae3-b3fe-3510dc9cbf8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div/ul/li</value>
+      <webElementGuid>d8fbbb18-769b-4374-91d8-5b4a04910f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新聞部'])[1]/following::li[1]</value>
+      <webElementGuid>6e71674d-02df-4828-bce6-40823b6dc529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='回調媒資'])[1]/preceding::li[1]</value>
+      <webElementGuid>c797f0c5-47ef-4eec-845b-c2786bb45d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li</value>
+      <webElementGuid>aca19c4f-febd-442c-b6ea-9c491daf6d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '媒資歸檔' or . = '媒資歸檔')]</value>
+      <webElementGuid>dfaaa171-7b24-4740-912e-12bbe4516706</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

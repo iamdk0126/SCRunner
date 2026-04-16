@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>錄製CH4_LiveSD</description>
+   <name>LTCase36錄製CH4LiveSD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1935ee68-27aa-4b37-846c-84503cd241be</testCaseGuid>
+</TestCaseEntity>

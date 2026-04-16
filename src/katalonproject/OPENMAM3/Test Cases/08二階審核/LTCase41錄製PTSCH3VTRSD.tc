@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>錄製CH3_VTRSD</description>
+   <name>LTCase41錄製PTSCH3VTRSD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d8ee63f-8f5b-40b3-86b4-d2e1b29611b0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101新增元數據配對</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99397381-07cf-43ad-bfa8-ee62ab7dc06b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>關鍵影格</name>
+   <tag></tag>
+   <elementGuidId>c821333a-6721-4dd0-b953-67052d5aaf38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-node-key = 'keyFrame' and (text() = '關鍵影格' or . = '關鍵影格')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-tabs-tab.ant-tabs-tab-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/main/div/div[3]/div[2]/div[4]/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f01fa2a9-fce1-4721-85d0-f7734868c5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-node-key</name>
+      <type>Main</type>
+      <value>keyFrame</value>
+      <webElementGuid>db8d9b06-7bc2-4a2e-b664-051cf83e5916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tabs-tab ant-tabs-tab-active</value>
+      <webElementGuid>c7ed4913-725b-42ff-bc3c-ce4149ca62ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>關鍵影格</value>
+      <webElementGuid>e3d10bd3-346b-4bff-be1c-5432715e67c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout ant-layout-has-sider layout___1XhSp&quot;]/main[@class=&quot;ant-layout-content content___2QN8t&quot;]/div[@class=&quot;container___3m-sV&quot;]/div[@class=&quot;container___3ScZ5&quot;]/div[@class=&quot;body___foP1K container___35AWl&quot;]/div[@class=&quot;ant-tabs ant-tabs-top info-tab___3TIeo&quot;]/div[@class=&quot;ant-tabs-nav&quot;]/div[@class=&quot;ant-tabs-nav-wrap&quot;]/div[@class=&quot;ant-tabs-nav-list&quot;]/div[@class=&quot;ant-tabs-tab ant-tabs-tab-active&quot;]</value>
+      <webElementGuid>0a0eed5c-24c3-4af4-9b97-dd8e74c1ffcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[3]/div[2]/div[4]/div/div/div/div[3]</value>
+      <webElementGuid>1833360e-93f7-4046-b5e5-f79ed5652680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='媒資檔案'])[1]/following::div[1]</value>
+      <webElementGuid>bbb843fc-b861-4bd3-b19e-1b16b5df2a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='詳細資訊'])[1]/following::div[3]</value>
+      <webElementGuid>322189fb-b531-4e72-8260-620979029c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='列管資訊'])[1]/preceding::div[2]</value>
+      <webElementGuid>9b42db05-7ad3-4889-b9de-d349b858bc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[3]</value>
+      <webElementGuid>43c2b4bc-1770-4bc3-a417-b2a73c53a1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '關鍵影格' or . = '關鍵影格')]</value>
+      <webElementGuid>1fdf198b-cddd-40ad-b6c9-9e90fbc819f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

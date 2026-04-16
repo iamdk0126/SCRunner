@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Team1</name>
+   <tag></tag>
+   <elementGuidId>da21adc1-74d8-40c4-8d96-7093f9f89020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-tabs-tab.ant-tabs-tab-active</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-node-key = '1']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/main/div/div[2]/div/header/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53077402-c458-4482-8b82-8b84fdb7c28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-node-key</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c10b3947-86a1-4ded-960d-095b5967e85d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tabs-tab ant-tabs-tab-active</value>
+      <webElementGuid>d216a97e-3edf-4239-bf74-fccbbb666089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>新聞部</value>
+      <webElementGuid>7c13c02a-ea87-42a5-b1b7-54700569861f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout layout___1XhSp&quot;]/main[@class=&quot;ant-layout-content content___2QN8t&quot;]/div[@class=&quot;container___1GLJy&quot;]/div[@class=&quot;content___1ggE2&quot;]/div[1]/header[@class=&quot;container___2qeJB&quot;]/div[@class=&quot;tabs-wrapper___1xARp&quot;]/div[@class=&quot;ant-tabs ant-tabs-top&quot;]/div[@class=&quot;ant-tabs-nav&quot;]/div[@class=&quot;ant-tabs-nav-wrap&quot;]/div[@class=&quot;ant-tabs-nav-list&quot;]/div[@class=&quot;ant-tabs-tab ant-tabs-tab-active&quot;]</value>
+      <webElementGuid>09f0e421-b536-413a-9fb7-9861726f904d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[2]/div/header/div/div/div/div/div/div</value>
+      <webElementGuid>b9ffde26-eba8-4571-93d8-836f50f7948b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='系統空間'])[1]/following::div[9]</value>
+      <webElementGuid>a0203d43-1fc7-4bc9-860a-fd9d7e1ef9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OpenNews'])[1]/following::div[9]</value>
+      <webElementGuid>ad8f4d6f-9a84-4c91-8663-100988e3ca0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='節目部'])[1]/preceding::div[2]</value>
+      <webElementGuid>ef60783e-12a9-4521-bc55-c17d5110a160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div/div/div/div</value>
+      <webElementGuid>1cb3ee7a-6bc7-4a15-b99d-5ad83ee306c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '新聞部' or . = '新聞部')]</value>
+      <webElementGuid>89e9e1c0-7674-40f5-a4b3-94f6e8113033</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

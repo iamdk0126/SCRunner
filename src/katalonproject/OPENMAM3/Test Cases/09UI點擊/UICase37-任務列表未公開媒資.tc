@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表未公開媒資</description>
+   <name>UICase37-任務列表未公開媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a488d0d-3610-4dad-8d95-c4248b0d678f</testCaseGuid>
+</TestCaseEntity>

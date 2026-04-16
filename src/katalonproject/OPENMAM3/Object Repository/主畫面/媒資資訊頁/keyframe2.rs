@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>keyframe2</name>
+   <tag></tag>
+   <elementGuidId>8f6b7333-2225-419f-acae-8ec76dbe546c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;rc-tabs-0-panel-keyFrame&quot;)/div[1]/div[@class=&quot;ant-list ant-list-split container___NKUDM&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item item-selected___veD_z&quot;][count(. | //li[@class = 'ant-list-item item-selected___veD_z']) = count(//li[@class = 'ant-list-item item-selected___veD_z'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-tabs-0-panel-keyFrame']/div/div/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-list-item.item-selected___veD_z</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8bf63ac8-fa47-4372-95d2-6df2f4d2b507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-list-item item-selected___veD_z</value>
+      <webElementGuid>f19bb865-c3d4-4dbb-bd90-c6e18642ff11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01:00:46:20</value>
+      <webElementGuid>0302bda1-ba3b-437e-804a-4c4af3d0609a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-keyFrame&quot;)/div[1]/div[@class=&quot;ant-list ant-list-split container___NKUDM&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item item-selected___veD_z&quot;]</value>
+      <webElementGuid>62060392-26d4-4519-a753-3629f7136679</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-keyFrame']/div/div/div/div/ul/li[2]</value>
+      <webElementGuid>0e0f5478-3d3c-48a5-ac0b-9b0914d8b220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aeset'])[2]/following::li[2]</value>
+      <webElementGuid>bb8451fe-5f64-44f9-80ed-1e3c5518085c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='body'])[2]/following::li[2]</value>
+      <webElementGuid>8fa495fd-0d5e-458e-9084-4f00d14a1a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[2]</value>
+      <webElementGuid>7e4b97ad-b407-4344-a8da-fccf854e5b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '01:00:46:20' or . = '01:00:46:20')]</value>
+      <webElementGuid>a7076920-aeaa-4d69-be7b-2b11312bda0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

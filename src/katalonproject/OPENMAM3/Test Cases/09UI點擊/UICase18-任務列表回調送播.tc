@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表回調送播</description>
+   <name>UICase18-任務列表回調送播</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58fc7c45-5234-4a29-88b7-a849074350d8</testCaseGuid>
+</TestCaseEntity>

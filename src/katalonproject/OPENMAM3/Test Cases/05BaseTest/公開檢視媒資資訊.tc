@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>公開檢視媒資資訊</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2449ba40-4cf2-411b-b556-15c4177fc3c5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9cf07d6-700b-4d3d-9329-84abb31d51d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9cf07d6-700b-4d3d-9329-84abb31d51d8</id>
+      <masked>false</masked>
+      <name>keywordParam</name>
+   </variable>
+</TestCaseEntity>

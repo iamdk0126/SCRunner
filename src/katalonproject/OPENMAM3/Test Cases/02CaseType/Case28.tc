@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調無列管-剪輯一鍵回調-核准)</description>
+   <name>Case28</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7edad54c-cfa9-495b-a607-f241e7e76cdf</testCaseGuid>
+</TestCaseEntity>

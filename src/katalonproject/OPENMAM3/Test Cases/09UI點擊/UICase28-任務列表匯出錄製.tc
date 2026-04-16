@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表匯出錄製</description>
+   <name>UICase28-任務列表匯出錄製</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fec62cf-f408-4777-9e2d-6c457a45ec16</testCaseGuid>
+</TestCaseEntity>

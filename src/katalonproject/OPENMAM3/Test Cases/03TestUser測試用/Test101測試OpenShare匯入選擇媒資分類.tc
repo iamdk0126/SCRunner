@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101測試OpenShare匯入選擇媒資分類</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d6c1af4-815f-4e36-a00f-eba1e6272cae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>錄製CH4_VTRHD</description>
+   <name>LTCase42錄製PTSCH4VTRHD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b855124-4b21-434f-9981-f868f299cf04</testCaseGuid>
+</TestCaseEntity>

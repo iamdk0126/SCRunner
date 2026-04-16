@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開媒資(編輯列管)</description>
+   <name>LTCase06未公開編輯列管</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30ee9afd-2439-4de9-bfbb-aeb27bda3bea</testCaseGuid>
+</TestCaseEntity>

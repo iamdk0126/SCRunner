@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>錄製CH8_VTRHD</description>
+   <name>LTCase40錄製CH8VTRHD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2d0bc0b-f66f-4eb4-9e77-550d21f98c66</testCaseGuid>
+</TestCaseEntity>

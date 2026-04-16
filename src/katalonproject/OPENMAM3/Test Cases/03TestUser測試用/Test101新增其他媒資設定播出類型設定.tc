@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101新增其他媒資設定播出類型設定</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64ea107d-b514-4bdd-b48d-02c967bbb93d</testCaseGuid>
+</TestCaseEntity>

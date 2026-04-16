@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增媒資(錄製影片LiveHD)</description>
+   <name>Case36</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7972c58-563e-46a3-96f0-493f320542fc</testCaseGuid>
+</TestCaseEntity>

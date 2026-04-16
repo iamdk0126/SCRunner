@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101未公開媒資timecode抓取</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>036eefd2-bace-4c2b-8696-a2dd11798e5e</testCaseGuid>
+</TestCaseEntity>

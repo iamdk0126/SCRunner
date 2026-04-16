@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調列管-剪輯一鍵回調-退回)</description>
+   <name>LTCase23剪輯一鍵回調列管L2退回</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4195abd0-6724-40a0-8734-1009d684d65a</testCaseGuid>
+</TestCaseEntity>

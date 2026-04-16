@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>時間軸now</name>
+   <tag></tag>
+   <elementGuidId>dc684f6a-7410-4f38-8dc2-afda2f4bef7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout ant-layout-has-sider layout___1XhSp&quot;]/main[@class=&quot;ant-layout-content content___2QN8t&quot;]/div[@class=&quot;container___3m-sV&quot;]/div[@class=&quot;container___3ScZ5&quot;]/div[@class=&quot;body___foP1K container___35AWl&quot;]/div[@class=&quot;container___1U8j_&quot;]/div[@class=&quot;slider___B98KU&quot;]/div[@class=&quot;slider-now___1PZwh&quot;]/div[@class=&quot;slider-now-bar___2Dn4R&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/main/div/div[3]/div[2]/div[3]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.slider-now-bar___2Dn4R</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e9fc044-35cc-4bc0-896c-261c7a877260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider-now-bar___2Dn4R</value>
+      <webElementGuid>a52d6ee2-bbf8-44e8-8ea5-1c29682e0ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout ant-layout-has-sider layout___1XhSp&quot;]/main[@class=&quot;ant-layout-content content___2QN8t&quot;]/div[@class=&quot;container___3m-sV&quot;]/div[@class=&quot;container___3ScZ5&quot;]/div[@class=&quot;body___foP1K container___35AWl&quot;]/div[@class=&quot;container___1U8j_&quot;]/div[@class=&quot;slider___B98KU&quot;]/div[@class=&quot;slider-now___1PZwh&quot;]/div[@class=&quot;slider-now-bar___2Dn4R&quot;]</value>
+      <webElementGuid>fd071f05-456e-4efe-9ff1-452bbc167c4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[3]/div[2]/div[3]/div/div[2]/div</value>
+      <webElementGuid>b77b2f95-f8f6-491c-aa76-4cd736585069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/div</value>
+      <webElementGuid>83f7ef39-a2b2-4c54-a1cb-08376dd954f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

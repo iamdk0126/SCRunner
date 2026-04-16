@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表匯出iNews匯入</description>
+   <name>UICase27-任務列表匯出iNews匯入</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e8c492c-8dd0-4377-836d-e03664c9c051</testCaseGuid>
+</TestCaseEntity>

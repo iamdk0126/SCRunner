@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>填寫回調原因</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cdef906-ef5e-46ba-9b89-25ebb8bb6315</testCaseGuid>
+</TestCaseEntity>

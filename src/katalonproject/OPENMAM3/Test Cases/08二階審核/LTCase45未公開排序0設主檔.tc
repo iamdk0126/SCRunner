@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開排序0設主檔</description>
+   <name>LTCase45未公開排序0設主檔</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7882e79-a979-45df-b89f-3514ab949426</testCaseGuid>
+</TestCaseEntity>

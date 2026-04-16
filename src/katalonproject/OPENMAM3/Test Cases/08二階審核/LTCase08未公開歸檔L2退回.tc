@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開媒資(歸檔-審核-退回)</description>
+   <name>LTCase08未公開歸檔L2退回</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d06ef2d2-e026-44f9-8eee-a8e5ed30f251</testCaseGuid>
+</TestCaseEntity>

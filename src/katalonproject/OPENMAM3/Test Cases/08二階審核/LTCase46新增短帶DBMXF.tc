@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增媒資(上傳短帶媒資由DB取得)</description>
+   <name>LTCase46新增短帶DBMXF</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a63cfd7e-8679-4d81-82b8-e6206945707d</testCaseGuid>
+</TestCaseEntity>

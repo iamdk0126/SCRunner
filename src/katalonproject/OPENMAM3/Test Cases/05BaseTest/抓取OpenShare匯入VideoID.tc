@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>抓取OpenShare匯入VideoID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47cab39e-838d-425c-ba59-75c3d3de1bbc</testCaseGuid>
+</TestCaseEntity>

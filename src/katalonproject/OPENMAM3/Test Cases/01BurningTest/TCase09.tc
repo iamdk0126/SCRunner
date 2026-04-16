@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開媒資(歸檔-審核-通過)</description>
+   <name>TCase09</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee1bcd6c-9acb-4332-b1a8-419e63b221ae</testCaseGuid>
+</TestCaseEntity>

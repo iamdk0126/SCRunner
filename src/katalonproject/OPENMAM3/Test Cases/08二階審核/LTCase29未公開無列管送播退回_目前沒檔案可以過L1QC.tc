@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開媒資(無列管送播-退回)</description>
+   <name>LTCase29未公開無列管送播退回_目前沒檔案可以過L1QC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e85bf9c9-bd66-4d36-8b26-26d40e9d92f8</testCaseGuid>
+</TestCaseEntity>

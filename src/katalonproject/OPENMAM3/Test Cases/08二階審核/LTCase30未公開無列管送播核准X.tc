@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開媒資(無列管送播-核准)</description>
+   <name>LTCase30未公開無列管送播核准X</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d777a31-21a3-4607-94b8-c992d75637d0</testCaseGuid>
+</TestCaseEntity>

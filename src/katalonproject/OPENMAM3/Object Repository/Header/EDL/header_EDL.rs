@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_EDL</name>
+   <tag></tag>
+   <elementGuidId>d9b2432c-c2bf-428e-ae86-f5c47874b516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/header/div[2]/ul/li/div/span/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout layout___1XhSp&quot;]/header[@class=&quot;ant-layout-header header___2_57M&quot;]/div[@class=&quot;right-div___1P8Pe&quot;]/ul[@class=&quot;right-menu___3FYfX&quot;]/li[@class=&quot;menu-item___ssnQP&quot;]/div[@class=&quot;menu-btn-wrapper___27eDs&quot;]/span[@class=&quot;ant-badge ant-tooltip-open&quot;]/button[@class=&quot;menu-btn___LZR4p&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.menu-btn___LZR4p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>744b8745-e2f5-4384-b15c-d011fa5674bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-btn___LZR4p</value>
+      <webElementGuid>74413f0f-492c-417d-8078-dfa13c3ab75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout layout___1XhSp&quot;]/header[@class=&quot;ant-layout-header header___2_57M&quot;]/div[@class=&quot;right-div___1P8Pe&quot;]/ul[@class=&quot;right-menu___3FYfX&quot;]/li[@class=&quot;menu-item___ssnQP&quot;]/div[@class=&quot;menu-btn-wrapper___27eDs&quot;]/span[@class=&quot;ant-badge ant-tooltip-open&quot;]/button[@class=&quot;menu-btn___LZR4p&quot;]</value>
+      <webElementGuid>8b8c36aa-bb9e-4c23-922d-3fa7b66c33ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/header/div[2]/ul/li/div/span/button</value>
+      <webElementGuid>ad8cc879-9456-4120-a298-0bc0f93dc4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新聞部'])[1]/preceding::button[4]</value>
+      <webElementGuid>2fa30ce7-e357-45b5-8988-66065b5a6213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='建立媒資'])[1]/preceding::button[4]</value>
+      <webElementGuid>2eddff58-9e8c-4b05-a3f0-54a0feeb717b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3daa6559-5330-497b-a40d-3b57b002fcca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>集數</name>
+   <tag></tag>
+   <elementGuidId>35bc2471-496c-4722-88e3-e1ae434f3620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@title='集數']/ancestor::div[contains(@class, 'ant-form-item-row')]//input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='metaId_22']/div/div/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#metaId_22 > div.ant-space-item > div > textarea.ant-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>129495fb-b966-4071-bde8-327aa118d317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>請輸入整數</value>
+      <webElementGuid>e4395bdf-17e8-4cc6-b9de-6a9d2ff4623d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input-number-input-wrap</value>
+      <webElementGuid>2e5cbd4b-9007-4db6-80e0-62ded51cbafe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@title='集數']/ancestor::div[contains(@class, 'ant-form-item-row')]//input</value>
+      <webElementGuid>662c0037-96d4-48c5-9c20-6ba569a64873</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metaId_22']/div/div/textarea</value>
+      <webElementGuid>d68fe379-6041-427e-aadc-6eee64df4d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div[2]/div/div/div/div/div/textarea</value>
+      <webElementGuid>bbed5e46-902e-41ba-8708-a56f025ce5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = '請輸入整數']</value>
+      <webElementGuid>b758a6e8-acb5-40db-968e-2d92f59dc137</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

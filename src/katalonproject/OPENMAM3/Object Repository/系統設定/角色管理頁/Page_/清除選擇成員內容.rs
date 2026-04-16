@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>清除選擇成員內容</name>
+   <tag></tag>
+   <elementGuidId>05cd9d99-db07-480d-b448-9f5a489f32b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-input-affix-wrapper.ant-input-affix-wrapper-focused > span.ant-input-suffix > span.ant-input-clear-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇成員:'])[1]/following::span[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1daf8ac6-201f-47cb-af5a-3c92eb261df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input-clear-icon</value>
+      <webElementGuid>f4b29d4b-db6a-4a52-8a59-375210928116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9261338-96cd-4939-be7a-9ccf6a0c94bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>acbc138c-24bf-435b-98e0-891b3584ca8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;container___2BPW7&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-12&quot;]/div[1]/span[@class=&quot;ant-input-group-wrapper ant-input-search&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused&quot;]/span[@class=&quot;ant-input-suffix&quot;]/span[@class=&quot;ant-input-clear-icon&quot;]</value>
+      <webElementGuid>295fe4e8-a4da-49c7-acf8-ddf58a7cb324</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇成員:'])[1]/following::span[5]</value>
+      <webElementGuid>18103f5f-906c-43c3-85ab-1ce9df94fbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='禁止'])[3]/following::span[6]</value>
+      <webElementGuid>61ea099d-eb83-4b13-a999-3aee95e13ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='名稱'])[1]/preceding::span[4]</value>
+      <webElementGuid>7c016902-6755-4a0d-b12e-56ee362e562d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='部門'])[1]/preceding::span[9]</value>
+      <webElementGuid>0ea92bfd-8bd9-43bd-a2a4-53269a2169b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span/span/span</value>
+      <webElementGuid>5ff7255b-7e43-462a-8200-a6f06ff888c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

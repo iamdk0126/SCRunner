@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OpenNews</name>
+   <tag></tag>
+   <elementGuidId>5c6b05d4-3b0e-4af5-9552-13580172dc81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'ant-menu-title-content' and (text() = 'OpenNews' or . = 'OpenNews') and @ref_element = 'Object Repository/Page_/OuterSystem' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='rc-menu-uuid-43850-3-SETTING_TYPE_GROUP_EXTERNAL-popup']/li[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active.ant-menu-item-selected.ant-menu-item-only-child > span.ant-menu-title-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2042bf79-e511-420e-a1b8-019d9bead15a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-menu-title-content</value>
+      <webElementGuid>dab8236c-d931-42aa-9a3a-4f0753cd193e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OpenNews</value>
+      <webElementGuid>162d2477-ddf3-4dd0-bc01-9d28a1786495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-menu-uuid-43850-3-SETTING_TYPE_GROUP_EXTERNAL-popup&quot;)/li[@class=&quot;ant-menu-item ant-menu-item-active ant-menu-item-selected ant-menu-item-only-child&quot;]/span[@class=&quot;ant-menu-title-content&quot;]</value>
+      <webElementGuid>9c67ecb3-7645-4153-99d4-593a9300518e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='rc-menu-uuid-43850-3-SETTING_TYPE_GROUP_EXTERNAL-popup']/li[2]/span</value>
+      <webElementGuid>013e1826-1293-46d0-95f7-1bd6f11d7651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OpenShare'])[1]/following::span[1]</value>
+      <webElementGuid>a5916b8e-51eb-4843-aabd-bd33b644718e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='外部系統'])[1]/following::span[2]</value>
+      <webElementGuid>515fd492-9375-481d-9ed3-ef5cc3ac36e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='系統空間'])[1]/preceding::span[2]</value>
+      <webElementGuid>763ff641-db3f-4e07-bf78-1a13ec5a6f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新聞部'])[2]/preceding::span[3]</value>
+      <webElementGuid>263694ae-4b3c-4aea-98e8-9cf7742ded54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OpenNews']/parent::*</value>
+      <webElementGuid>d5629c2a-bf5d-4064-97b4-6276023314bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[2]/span</value>
+      <webElementGuid>626c81de-6d85-4f72-997d-7c57b2d9c286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OpenNews' or . = 'OpenNews')]</value>
+      <webElementGuid>9470817b-26b0-4922-b2db-68b852e2c682</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

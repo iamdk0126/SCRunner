@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>公開搜尋編輯媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d59676a3-87fa-4f34-ad85-5975d6de3b35</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f8ecdbe-da43-43b3-9bef-35b539d4b45c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f8ecdbe-da43-43b3-9bef-35b539d4b45c</id>
+      <masked>false</masked>
+      <name>keywordParam</name>
+   </variable>
+</TestCaseEntity>

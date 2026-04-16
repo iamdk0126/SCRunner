@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>歸檔送出核准</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83915df7-1763-436e-b9df-56cdf4d79113</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5328427-8d68-45c6-8f92-c3a4f8fb1387</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5328427-8d68-45c6-8f92-c3a4f8fb1387</id>
+      <masked>false</masked>
+      <name>keywordParam</name>
+   </variable>
+</TestCaseEntity>

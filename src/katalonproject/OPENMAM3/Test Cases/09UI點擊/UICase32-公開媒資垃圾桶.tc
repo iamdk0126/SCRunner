@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-公開媒資垃圾桶</description>
+   <name>UICase32-公開媒資垃圾桶</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31981902-a309-4742-b4cf-bcb90b0495e3</testCaseGuid>
+</TestCaseEntity>

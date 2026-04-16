@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增媒資(上傳媒資由DB取得)</description>
+   <name>LTCase05新增媒資DBMXFFor編表</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>600a9d3d-bd15-44a1-941b-5df3a4071f0a</testCaseGuid>
+</TestCaseEntity>

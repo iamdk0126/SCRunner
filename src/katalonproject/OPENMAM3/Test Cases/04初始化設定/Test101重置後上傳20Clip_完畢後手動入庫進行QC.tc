@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增媒資(上傳本地目錄隨機MXF)</description>
+   <name>Test101重置後上傳20Clip_完畢後手動入庫進行QC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55c9b7fb-05c4-4094-9f4f-52d6e1af7c2d</testCaseGuid>
+</TestCaseEntity>

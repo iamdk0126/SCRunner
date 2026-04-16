@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增媒資上傳隨機可設迴圈</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>155f6081-d6d4-4a24-b2a9-cbda6a747528</testCaseGuid>
+</TestCaseEntity>

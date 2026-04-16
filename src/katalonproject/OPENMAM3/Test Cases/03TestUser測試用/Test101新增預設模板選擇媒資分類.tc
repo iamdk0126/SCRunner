@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101新增預設模板選擇媒資分類</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3647c020-85bb-407c-8032-8a139f0f5cff</testCaseGuid>
+</TestCaseEntity>

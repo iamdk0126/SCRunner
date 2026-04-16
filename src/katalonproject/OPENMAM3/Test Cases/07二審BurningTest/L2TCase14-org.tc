@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(搜尋)</description>
+   <name>L2TCase14-org</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1d3d960-fe54-419d-b15d-f9e0abf0f3e9</testCaseGuid>
+</TestCaseEntity>

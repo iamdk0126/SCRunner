@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增(空)媒資(無法上傳檔案)</description>
+   <name>Case4Localloop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6d9bb0f-3f36-4f6a-817e-6ca412f20fdc</testCaseGuid>
+</TestCaseEntity>

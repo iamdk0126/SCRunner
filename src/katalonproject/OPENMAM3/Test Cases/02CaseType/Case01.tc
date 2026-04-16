@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Case01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f3716f6-c7f4-4d9f-ba64-05a769ce7fff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6c96472-4af8-49c9-891d-d2762eb7b9d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.OpenMAM_url</defaultValue>
+      <description></description>
+      <id>d6c96472-4af8-49c9-891d-d2762eb7b9d5</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

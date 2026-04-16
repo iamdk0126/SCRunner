@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表歸檔EDL</description>
+   <name>UICase17-任務列表歸檔EDL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7557e317-6376-4939-9865-2fc3ba710965</testCaseGuid>
+</TestCaseEntity>

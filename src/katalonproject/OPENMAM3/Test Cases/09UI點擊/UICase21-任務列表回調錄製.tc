@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表回調錄製</description>
+   <name>UICase21-任務列表回調錄製</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05892637-7604-4cb0-9630-6e4235b9f4cb</testCaseGuid>
+</TestCaseEntity>

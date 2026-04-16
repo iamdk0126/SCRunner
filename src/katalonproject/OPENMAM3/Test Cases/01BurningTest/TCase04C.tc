@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增媒資(上傳本地目錄隨機MXF)</description>
+   <name>TCase04C</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f268172c-84b2-44d8-bc08-e3751b4fe9a0</testCaseGuid>
+</TestCaseEntity>

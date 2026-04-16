@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表送播匯出</description>
+   <name>UICase23-任務列表送播匯出</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20c34f69-dc34-4341-a607-324785bbc6af</testCaseGuid>
+</TestCaseEntity>

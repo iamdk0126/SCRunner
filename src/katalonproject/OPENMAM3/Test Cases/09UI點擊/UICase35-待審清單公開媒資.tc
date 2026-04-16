@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-待審清單公開媒資</description>
+   <name>UICase35-待審清單公開媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8762557-323c-4a5e-9d74-f32339c98812</testCaseGuid>
+</TestCaseEntity>

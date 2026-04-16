@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調列管-媒資回調-核准)</description>
+   <name>Case20</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f3cc0e07-000f-47ef-aab9-51a3f11684b8</testCaseGuid>
+</TestCaseEntity>

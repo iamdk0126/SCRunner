@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增審核流程入庫</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52be2965-e587-48e6-aab1-8bbe7704f69d</testCaseGuid>
+</TestCaseEntity>

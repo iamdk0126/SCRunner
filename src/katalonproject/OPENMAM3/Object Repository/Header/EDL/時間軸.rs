@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>時間軸</name>
+   <tag></tag>
+   <elementGuidId>a7f42144-34e3-4617-b7cf-5447b0c9aea3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/main/div/div[2]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'timelineEditorWrapper___3DA4V')]//div[contains(@class,'timeline-editor-edit-area') or contains(@class,'emptyTimeline___1wBsm')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.emptyTimeline___1wBsm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c430412f-0136-4b33-98a7-5188f5efac11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>&quot;emptyTimeline___1wBsm&quot; or &quot;timeline-editor-edit-row&quot; </value>
+      <webElementGuid>ba413929-eccd-4e53-b534-cd01b7d73e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>請先加入媒資</value>
+      <webElementGuid>051488f7-54e3-4afb-80bc-5393a0b0f6b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'timelineEditorWrapper___3DA4V')]//div[contains(@class,'timeline-editor-edit-area') or contains(@class,'emptyTimeline___1wBsm')]</value>
+      <webElementGuid>1ecd2cc4-19fb-41ff-aacb-15662afba920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>e1350397-c8ea-4538-84dc-2e15e29b0b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='匯出'])[1]/following::div[2]</value>
+      <webElementGuid>ebce44a1-a5f4-4911-bd77-c3206a665ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='影片預覽區'])[1]/following::div[11]</value>
+      <webElementGuid>d3e9d296-159e-4f0e-b254-3e905d9ed195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='公告標題1'])[1]/preceding::div[2]</value>
+      <webElementGuid>6c5be482-efe8-48a0-a74e-8b6cc6545f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>797be36e-7578-498a-a6e8-6b761832bb12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '請先加入媒資' or . = '請先加入媒資')]</value>
+      <webElementGuid>00b82046-86cf-466c-bd27-5876157c845f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

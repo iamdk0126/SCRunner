@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>upload_video</name>
+   <tag></tag>
+   <elementGuidId>d6f2d23b-e024-460a-b74d-540d62e7dd58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[47]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type='file' and (contains(@accept, '.mxf') or contains(@accept, '.mp4'))]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-content___3jtCq > span > div.ant-upload.ant-upload-select.ant-upload-select-text > span.ant-upload > button.ant-btn.ant-btn-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b2d366fb-ef66-4f25-aa22-e15503372992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4240993a-8aa7-4cf4-9855-9d00050b40f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default</value>
+      <webElementGuid>ae1d2c31-6ab9-4a8f-8d59-7819a908fd3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>上傳影片</value>
+      <webElementGuid>95178ccf-c7f6-4845-9060-6f591cfec465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@type='file' and (contains(@accept, '.mxf') or contains(@accept, '.mp4'))]&#xd;
+</value>
+      <webElementGuid>061e26c1-e3a3-4ad6-81b8-267533553552</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[47]</value>
+      <webElementGuid>453647a9-0684-4218-aa6b-46d4808285c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::button[1]</value>
+      <webElementGuid>aeed321e-edc9-4c5d-82d2-fc398b0b5672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/span/div/span/button</value>
+      <webElementGuid>a19a2e2e-f87c-47c7-a610-926c3ffea0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '上傳影片' or . = '上傳影片')]</value>
+      <webElementGuid>d1b38c27-1688-46b8-b84c-53bfe7fc3998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表送播iNews匯入</description>
+   <name>UICase24-任務列表送播iNews匯入</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc01a4cc-b64a-46d0-9327-0b2c68bca71c</testCaseGuid>
+</TestCaseEntity>

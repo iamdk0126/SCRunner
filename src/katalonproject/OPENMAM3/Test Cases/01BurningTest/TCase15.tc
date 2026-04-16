@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調無列管-媒資回調-退回)</description>
+   <name>TCase15</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4047aaf4-1eca-4d0a-a9e4-a89f39f2b534</testCaseGuid>
+</TestCaseEntity>

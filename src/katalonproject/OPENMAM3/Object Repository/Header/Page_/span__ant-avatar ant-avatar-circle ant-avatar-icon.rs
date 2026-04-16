@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__ant-avatar ant-avatar-circle ant-avatar-icon</name>
+   <tag></tag>
+   <elementGuidId>3057203d-86ce-4a5c-9128-0b89c4290522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/header/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'ant-avatar ant-avatar-circle ant-avatar-icon']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-avatar.ant-avatar-circle.ant-avatar-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f582d504-c111-4047-999f-3f194aade6cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-avatar ant-avatar-circle ant-avatar-icon</value>
+      <webElementGuid>853397b4-a7c5-4db4-97ee-c0531611145d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/section[@class=&quot;ant-layout layout___1XhSp&quot;]/header[@class=&quot;ant-layout-header header___2_57M&quot;]/div[@class=&quot;right-div___1P8Pe&quot;]/div[@class=&quot;ant-dropdown-trigger avatar-area___1Fmeu ant-dropdown-open&quot;]/span[@class=&quot;ant-avatar ant-avatar-circle ant-avatar-icon&quot;]</value>
+      <webElementGuid>4b567ab2-cd38-4ccc-b8a6-3e25f667ab2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/header/div[2]/div/span</value>
+      <webElementGuid>d40b9b26-8129-4c5a-9216-6312b55a2da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新聞部'])[1]/preceding::span[3]</value>
+      <webElementGuid>b7df83fb-7f1e-4b5f-a41d-6b19da1d98ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='建立媒資'])[1]/preceding::span[7]</value>
+      <webElementGuid>c080e2b9-5a60-4ed5-8e5a-950e7ac3d3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>9e8091ca-7162-473a-b7cc-480672930294</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>關鍵影格項目3</name>
+   <tag></tag>
+   <elementGuidId>a8f369c7-8dfc-4ab5-b014-3fb51e5e7d1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-tabs-0-panel-keyFrame']/div/div/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-list-item.item-selected___veD_z</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c2fd8c8d-08d8-4b11-bb03-f16317f6ecb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-list-item item-selected___veD_z</value>
+      <webElementGuid>8c8a462a-c790-4f88-b2f8-a9560e5530d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01:00:08:10</value>
+      <webElementGuid>3d64c7a7-1705-4c0b-9219-e2b784313b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-keyFrame&quot;)/div[@class=&quot;ant-list ant-list-split container___NKUDM&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item item-selected___veD_z&quot;]</value>
+      <webElementGuid>f021c7c4-24ad-4c28-8503-39af60d1e501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-keyFrame']/div/div/div/ul/li[3]</value>
+      <webElementGuid>9fb20cb8-38c0-449f-aecc-fbdf3ab89feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='預覽'])[1]/following::li[3]</value>
+      <webElementGuid>322d09ad-346d-44e4-8d1e-a99358d8de34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test101'])[9]/following::li[3]</value>
+      <webElementGuid>392f641c-9e2f-419c-8dc7-1a2586494d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='主檔資訊:'])[1]/preceding::li[46]</value>
+      <webElementGuid>3958dd84-be52-4076-a7c4-4c4d1298701b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='起止影格'])[1]/preceding::li[46]</value>
+      <webElementGuid>45d2b498-a831-49a0-b008-9cbbe25ee602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/ul/li[3]</value>
+      <webElementGuid>b16535c9-2385-4855-8eed-eab3f1d4332c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '01:00:08:10' or . = '01:00:08:10')]</value>
+      <webElementGuid>90f88fd2-5c61-41c1-8def-ce358c86d6ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

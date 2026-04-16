@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-公開檢視列管媒資</description>
+   <name>UICase41-公開檢視列管媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c348833-d036-45f9-aaea-304db836b9fd</testCaseGuid>
+</TestCaseEntity>

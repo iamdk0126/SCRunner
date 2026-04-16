@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_VTR_vtr-end-time</name>
+   <tag></tag>
+   <elementGuidId>be170fa5-44a4-4e96-8b0e-5a784cd404e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[normalize-space(.)='VTR時間區間']/ancestor::div[@class='ant-form-item']//input[@type='tel'])[5]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-picker-input:last-of-type input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//label[normalize-space(.)='VTR時間區間']/ancestor::div[@class='ant-form-item']//input[@type='tel'])[5]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f03deece-798f-4202-803c-56c4e63e5b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>6e90054a-a0c0-4ccb-9b00-91c2cea499d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>44c881bd-b4fe-4895-a702-0444f678fbb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//label[normalize-space(.)='VTR時間區間']/ancestor::div[@class='ant-form-item']//input[@type='tel'])[5]&#xd;
+</value>
+      <webElementGuid>66d2bd57-3763-4131-802f-a7c8a1e2708e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[55]</value>
+      <webElementGuid>a7dbe4cd-b493-4131-a1cc-286183353d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>a8be5d09-ddbd-4dff-a976-4967935a7c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

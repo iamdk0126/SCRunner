@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增媒資上傳隨機無迴圈-FileIn1Folder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a34ffe11-c6c0-4461-bb64-41713f2ba254</testCaseGuid>
+</TestCaseEntity>

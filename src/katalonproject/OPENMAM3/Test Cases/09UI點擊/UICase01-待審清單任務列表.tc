@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-待審清單任務列表</description>
+   <name>UICase01-待審清單任務列表</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e54f4b4a-d9b0-4119-b684-cab7e3a86623</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表送播EDL</description>
+   <name>UICase26-任務列表送播EDL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9713f5ca-a9a9-4305-b590-ac9145ec0e90</testCaseGuid>
+</TestCaseEntity>

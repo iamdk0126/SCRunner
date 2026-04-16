@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(搜尋)</description>
+   <name>L2回調審核層二</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb2a2c3e-38ea-4004-870c-cf47d60050fe</testCaseGuid>
+</TestCaseEntity>

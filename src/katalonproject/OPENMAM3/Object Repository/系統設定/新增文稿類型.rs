@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>新增文稿類型</name>
+   <tag></tag>
+   <elementGuidId>c2256eee-0186-4ed1-8ca5-c33b2e10dd2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='文稿類型']/following-sibling::div//button[span[text()='新 增']]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[span[normalize-space(.)=&quot;新增&quot;]])[2]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>(//button[span[normalize-space(.)=&quot;新增&quot;]])[2]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>043bcbb3-1a01-4e35-a598-b693d1499363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1917dd51-3696-45ae-bf1f-7345fbbad9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default ant-btn-sm</value>
+      <webElementGuid>f31a172c-92bc-4db8-89e0-eeed7ddc3468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>新 增</value>
+      <webElementGuid>8a3b16ea-b050-407e-b80b-6c378a0aed6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='文稿類型']/following-sibling::div//button[span[text()='新 增']]&#xd;
+</value>
+      <webElementGuid>d59fc68c-7268-436a-9145-c4f3255d9dd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[span[normalize-space(.)=&quot;新增&quot;]])[2]</value>
+      <webElementGuid>9821b387-64f7-4a54-8b63-ed308daf43f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/main/div/div[2]/div/div[2]/div/div[2]/div/div/button</value>
+      <webElementGuid>242efafe-a755-49e8-bb5e-9c80d0f901c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='文稿類型'])[1]/following::button[1]</value>
+      <webElementGuid>fbb76eae-b2e8-402a-8e78-3c439517ac52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='共 1 筆資料'])[1]/following::button[3]</value>
+      <webElementGuid>851f7de9-7539-4065-a722-5780ef69c43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='代碼'])[1]/preceding::button[1]</value>
+      <webElementGuid>0a99c658-a365-4ca1-ba92-0327354c1ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/button</value>
+      <webElementGuid>8733a6bb-d9da-460d-980f-df45898fd621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '新 增' or . = '新 增')]</value>
+      <webElementGuid>e55e6c4c-ee93-42ee-baef-1d4d7bd90c1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

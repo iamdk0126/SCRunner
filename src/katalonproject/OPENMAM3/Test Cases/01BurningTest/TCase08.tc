@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開媒資 (歸檔-審核-退回)</description>
+   <name>TCase08</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78a2b599-b86e-4e2f-8f29-44fb4262767d</testCaseGuid>
+</TestCaseEntity>

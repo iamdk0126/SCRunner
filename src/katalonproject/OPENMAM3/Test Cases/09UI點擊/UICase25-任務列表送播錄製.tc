@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表送播錄製</description>
+   <name>UICase25-任務列表送播錄製</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2853ef57-4f1e-4292-93e2-12028d848d26</testCaseGuid>
+</TestCaseEntity>

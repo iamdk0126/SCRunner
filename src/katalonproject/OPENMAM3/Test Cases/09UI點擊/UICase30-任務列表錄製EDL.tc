@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表錄製EDL</description>
+   <name>UICase30-任務列表錄製EDL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a348a1ec-4e9d-478c-8a15-3bad9ef3fb83</testCaseGuid>
+</TestCaseEntity>

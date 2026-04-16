@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selector_input</name>
+   <tag></tag>
+   <elementGuidId>58523256-75e7-4c4d-b90a-cd963aa0f0fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='metaId_-1']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class, 'ant-form-item')][.//label[@title='媒資分類' or normalize-space()='媒資分類']]//div[contains(@class, 'ant-select-selector')]//input[contains(@class, 'ant-select-selection-search-input')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-in-form-item.ant-select-single.ant-select-show-arrow > div.ant-select-selector</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71aaf58e-ad1d-447c-84cb-c7b3b7d89e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>dbe5cbb8-2cb8-4d51-9d8c-5f95c1e8e18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>國際I</value>
+      <webElementGuid>4337117a-2f2a-41cf-843b-46a33ce77e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class, 'ant-form-item')][.//label[@title='媒資分類' or normalize-space()='媒資分類']]//div[contains(@class, 'ant-select-selector')]//input[contains(@class, 'ant-select-selection-search-input')]</value>
+      <webElementGuid>6845cf38-1f08-41f4-ba63-0ae9f7c9346d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metaId_-1']/div/div/div/div</value>
+      <webElementGuid>ad5a6a16-150d-42df-a279-eac551977de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='媒資分類'])[3]/following::div[8]</value>
+      <webElementGuid>059746d7-5204-4ba3-b5f0-58c7bc233b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='編輯媒資'])[1]/following::div[17]</value>
+      <webElementGuid>96324cc4-7f22-4307-aa5f-76861ec51026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='名稱'])[2]/preceding::div[1]</value>
+      <webElementGuid>419c7397-ea24-40b4-9afb-2f2cdd357930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>a77b9f2a-b24b-4c90-9c5f-35094511e82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '國際I' or . = '國際I')]</value>
+      <webElementGuid>bca24631-381d-4690-becc-d8fbddcb16ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

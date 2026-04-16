@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>錄製CH6_LiveHDTC</description>
+   <name>LTCase38錄製CH6_LiveHDTC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1df4c7b4-eed3-455f-9f49-90c916656164</testCaseGuid>
+</TestCaseEntity>

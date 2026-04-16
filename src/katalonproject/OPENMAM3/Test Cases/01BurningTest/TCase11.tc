@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(編輯列管)</description>
+   <name>TCase11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01a8763a-0cd8-4784-b1ec-24497f402107</testCaseGuid>
+</TestCaseEntity>

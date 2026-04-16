@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表歸檔錄製檔案</description>
+   <name>UICase16-任務列表歸檔錄製檔案</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9aced7f-97d4-43fb-b44d-e375744e18c5</testCaseGuid>
+</TestCaseEntity>

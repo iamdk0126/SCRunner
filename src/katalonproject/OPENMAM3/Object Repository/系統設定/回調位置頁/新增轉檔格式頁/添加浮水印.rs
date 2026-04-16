@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>添加浮水印</name>
+   <tag></tag>
+   <elementGuidId>c5ff7ba1-b512-4dbc-9c58-b883dcbf9159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#isAddWatermark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/span/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;container___GAtbu&quot;]/form[@class=&quot;ant-form ant-form-horizontal edit-form___-5S7S&quot;]/div[@class=&quot;ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-col-18 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/label[@class=&quot;ant-checkbox-wrapper ant-checkbox-wrapper-in-form-item&quot;]/span[@class=&quot;ant-checkbox&quot;]/span[@class=&quot;ant-checkbox-inner&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a331b73-4bd0-4912-b3dc-c5e4cb558137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-inner</value>
+      <webElementGuid>d7e7fa7e-e7c9-460a-9dda-05b93d5da593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;container___GAtbu&quot;]/form[@class=&quot;ant-form ant-form-horizontal edit-form___-5S7S&quot;]/div[@class=&quot;ant-form-item ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-col-18 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/label[@class=&quot;ant-checkbox-wrapper ant-checkbox-wrapper-in-form-item&quot;]/span[@class=&quot;ant-checkbox&quot;]/span[@class=&quot;ant-checkbox-inner&quot;]</value>
+      <webElementGuid>e06f7f21-1031-4eaf-8e43-a36990118d40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span/span</value>
+      <webElementGuid>5e5917c7-53be-4c58-99b0-b24901efc407</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

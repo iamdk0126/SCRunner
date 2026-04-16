@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表OpenMAM</description>
+   <name>UICase04-任務列表OpenMAM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>024e19ec-077f-4e65-859c-2f17d0a43bd2</testCaseGuid>
+</TestCaseEntity>

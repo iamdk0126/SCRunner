@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>段落標題</name>
+   <tag></tag>
+   <elementGuidId>dad106cd-99df-49d6-b8d4-290176f69148</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#metaId_23 > div.ant-space-item > div > textarea.ant-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='metaId_23']/div/div/textarea</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//label[text()='段落資訊']/ancestor::div[contains(@class,'ant-form-item-row')]&#xd;
+   //tbody//tr[contains(@class,'ant-table-row')])[1]//td[1]//textarea&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>7c7679fa-9048-4e66-969b-762f4f0167a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>請輸入內容</value>
+      <webElementGuid>27ebb967-38da-412e-8a2c-ebe63d845aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input</value>
+      <webElementGuid>165162c7-26cd-4612-91bf-f231fe3906eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//label[text()='段落資訊']/ancestor::div[contains(@class,'ant-form-item-row')]&#xd;
+   //tbody//tr[contains(@class,'ant-table-row')])[1]//td[1]//textarea&#xd;
+</value>
+      <webElementGuid>7961b8c9-298c-4ee5-b806-3bc780b68a08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metaId_23']/div/div/textarea</value>
+      <webElementGuid>bf0a64be-4e7e-4c23-b911-3a343e62c6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div[2]/div/div/div/div/div/textarea</value>
+      <webElementGuid>3fb79826-ac28-4cb2-b1a9-278034a153bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = '請輸入內容']</value>
+      <webElementGuid>19ec0896-2e6b-4519-a2ff-49d6417bb698</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

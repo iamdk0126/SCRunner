@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(編輯列管)</description>
+   <name>LTCase10公開編輯媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b925b534-2ec8-4f2f-9093-dad604dfc53d</testCaseGuid>
+</TestCaseEntity>

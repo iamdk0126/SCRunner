@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表回調iNews匯入</description>
+   <name>UICase20-任務列表回調iNews匯入</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15f0eb3a-e53d-4f19-99a0-ee53a4b348da</testCaseGuid>
+</TestCaseEntity>

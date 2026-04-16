@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>功能頁切換</description>
+   <name>Case03切換功能表 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a798d0f0-00f2-4af9-bfdb-3da7309153a4</testCaseGuid>
+</TestCaseEntity>

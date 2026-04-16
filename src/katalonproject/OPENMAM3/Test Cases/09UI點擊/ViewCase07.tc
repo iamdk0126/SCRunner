@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表</description>
+   <name>ViewCase07</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f04e4eed-e517-4325-8f97-76ed0c4f1464</testCaseGuid>
+</TestCaseEntity>

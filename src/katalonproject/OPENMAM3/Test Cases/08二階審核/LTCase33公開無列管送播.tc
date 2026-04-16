@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(無列管送播)</description>
+   <name>LTCase33公開無列管送播</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85382bbf-75a7-4fa4-946d-3620bd53e4c9</testCaseGuid>
+</TestCaseEntity>

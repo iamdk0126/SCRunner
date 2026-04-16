@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調列管-剪輯一鍵回調-核准)</description>
+   <name>LTCase24剪輯一鍵回調列管核准</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9eb04f3-e73b-4281-b62b-4255f877a01d</testCaseGuid>
+</TestCaseEntity>

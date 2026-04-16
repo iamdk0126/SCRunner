@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>錄製影片Live</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4c2818e-df64-40d1-8759-ec7f7d66d2e4</testCaseGuid>
+</TestCaseEntity>

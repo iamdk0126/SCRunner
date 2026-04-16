@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>scan_mxf_from_folder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6c810d4-6b55-4449-b85a-67bccd0cbe44</testCaseGuid>
+</TestCaseEntity>

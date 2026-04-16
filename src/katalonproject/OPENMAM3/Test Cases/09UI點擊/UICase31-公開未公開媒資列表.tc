@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-公開未公開媒資列表</description>
+   <name>UICase31-公開未公開媒資列表</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f084c7ae-f406-4203-b439-b1a39e8ecd4b</testCaseGuid>
+</TestCaseEntity>

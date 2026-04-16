@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增(空)媒資(無法上傳檔案)</description>
+   <name>Test101清理未公開媒資未同步文稿</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d4a8703-6913-40e0-ae17-11780a29fc94</testCaseGuid>
+</TestCaseEntity>

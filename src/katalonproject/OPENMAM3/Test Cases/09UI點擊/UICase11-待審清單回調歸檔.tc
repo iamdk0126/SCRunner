@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-待審清單回調歸檔</description>
+   <name>UICase11-待審清單回調歸檔</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3223258-2b54-4d82-8cbc-9ca0c27967e1</testCaseGuid>
+</TestCaseEntity>

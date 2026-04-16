@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表</description>
+   <name>LTCase02個人化設定</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f719845e-b292-4e3c-9a00-0519c7b6f675</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,215 @@
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import internal.GlobalVariable as GlobalVariable
+import java.util.Random as Random
+//import java.io.File as File
+import java.sql.Connection as Connection
+import java.sql.DriverManager as DriverManager
+import java.sql.ResultSet as ResultSet
+import java.sql.Statement as Statement
+import java.util.ArrayList as ArrayList
+import java.util.List as List
+import custom.TimeControl as TimeControl
+import custom.AuthKeywords
+import custom.DropdownHelper
+import custom.TimeControl
+import custom.WebUIExtensions as WebUIExtensions
+
+String Title = ""
+
+String VideoID = ""
+
+String progtype = ""
+
+List<String> Titles = GlobalVariable.Titles
+
+
+//import java.io.FileWriter as FileWriter
+int runloop = GlobalVariable.runloop
+
+//int specificindex = GlobalVariable.runloopCase4
+// 請在 GlobalVariable 設定您希望執行的時間（分鐘）
+// 如果執行時間為 0，則以 runloop 次數為準
+int executionTimeInMinutes = GlobalVariable.executionTimeInhours * 60
+// --- 定義此特定執行要使用的帳號密碼 ---
+String UserNo = GlobalVariable.TestUser46
+String specificAccount = ""
+if (GlobalVariable.metateam == 1) {
+	specificAccount = "test1"+UserNo
+	} else if (GlobalVariable.metateam == 2) {
+		specificAccount = "test2"+UserNo
+	}
+
+String specificDomain = GlobalVariable.DOMAIN
+
+List<String> nodes = GlobalVariable.nodes
+String node = nodes[new Random().nextInt(nodes.size())]
+
+//String url = "https://$GlobalVariable.OpenMAM_ip:$GlobalVariable.OpenMAM_port/"
+
+//String specificAccount = 'root'
+// 請替換為 user_abc 的實際加密密碼
+//String specificEncryptedPassword = 'root'
+String specificEncryptedPassword = GlobalVariable.TestPassword
+
+//def specifickeyword = WebUI.callTestCase(findTestCase('05BaseTest/選擇公開無列管關鍵字'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+// --- 呼叫登入測試案例 ---
+println('準備呼叫 TC_Login，使用帳號：' + specificAccount)
+
+//WebUI.openBrowser('')
+//AuthKeywords.ensureLogin(specificAccount, specificEncryptedPassword, true)
+//BrowserHelper.ensureBrowserAlive()
+
+//WebUI.callTestCase(findTestCase('05BaseTest/登入'), [('accountParam') : specificAccount, ('passwordParam') : specificEncryptedPassword], FailureHandling.STOP_ON_FAILURE)
+
+if (executionTimeInMinutes > 0) {
+    // 依執行時間執行
+    println(('腳本將依據設定的執行時間 (' + executionTimeInMinutes) + ' 分鐘) 執行。')
+
+    def startTime = System.currentTimeMillis()
+
+    def endTime = startTime + ((executionTimeInMinutes * 60) * 1000)
+
+    int iterationCount = 0
+
+    while (System.currentTimeMillis() < endTime) {
+		
+		TimeControl.checkPauseTime(0, 0, 0, 20)  // 00:00 ~ 00:20 暫停 , 等待minIO同步新一天的iNews xml
+		
+        iterationCount++
+
+        println('Loop iteration (1-indexed): ' + iterationCount)
+
+        WebUI.comment(('現在是第 ' + iterationCount) + ' 次迴圈執行')
+		if (GlobalVariable.metateam == 1) {
+			specificAccount = "test1"+UserNo
+			Title = "節目-"
+			progtype = "新聞"
+			} else if (GlobalVariable.metateam == 2) {
+				specificAccount = "test2"+UserNo
+				progtype = "短帶"
+				Title = "短帶-"
+			}
+
+		//AuthKeywords.ensureLogin(specificAccount, specificEncryptedPassword, specificDomain, true)
+		WebUI.callTestCase(findTestCase('05BaseTest/登入'), [('accountParam') : specificAccount, ('passwordParam') : specificEncryptedPassword,('domainParam') : specificDomain,('nodeParam') : node], FailureHandling.STOP_ON_FAILURE)
+		
+		//WebUI.click(findTestObject('Header/資源組下拉'))
+		
+		//DropdownHelper.selectVisibleDropdownOptionScroll("新聞部")
+		
+		//WebUI.callTestCase(findTestCase('05BaseTest/新增媒資上傳隨機無迴圈'), [:], FailureHandling.STOP_ON_FAILURE)
+		
+		
+		def correspondingTitle = WebUI.callTestCase(findTestCase('05BaseTest/新增媒資上傳CF同MXF'), [('titleParam') : Title, ('videoParam') : VideoID,('progParam') : progtype, ('indexParam') : iterationCount], FailureHandling.STOP_ON_FAILURE)
+
+		if (GlobalVariable.metateam == 2) {
+			
+			WebUI.callTestCase(findTestCase('05BaseTest/登出'), [:], FailureHandling.STOP_ON_FAILURE)
+			
+			WebUI.callTestCase(findTestCase('05BaseTest/登入'), [('accountParam') : specificAccount, ('passwordParam') : specificEncryptedPassword,('domainParam') : specificDomain,('nodeParam') : node], FailureHandling.STOP_ON_FAILURE)
+			
+			WebUI.waitForElementClickable(findTestObject('主畫面/未公開媒資'), 30)
+			
+			WebUI.click(findTestObject('主畫面/未公開媒資'))
+			
+			WebUIExtensions.retryClick(findTestObject('主畫面/未公開媒資頁/搜尋媒資'))
+			
+			//WebUIExtensions.retryClick(findTestObject('主畫面/未公開媒資頁/重置'))
+			
+			WebUIExtensions.setTextByLabel('關鍵字', correspondingTitle)
+			
+			WebUIExtensions.retryClick(findTestObject('主畫面/未公開媒資頁/搜尋'))
+			
+			def FinalTitle = WebUI.callTestCase(findTestCase('05BaseTest/媒資短帶timecode抓取'),[('titleParam') : correspondingTitle], FailureHandling.STOP_ON_FAILURE)
+			
+			WebUI.comment("關鍵字: " + FinalTitle)
+		}
+		
+        WebUI.comment('已完成:新增媒資')
+		//  每一圈都執行登出 (不關閉瀏覽器)
+		WebUI.callTestCase(findTestCase('05BaseTest/登出'), [:], FailureHandling.STOP_ON_FAILURE)
+		// 呼叫 Keyword：只有第 10, 20... 圈會執行 closeBrowser
+		WebUIExtensions.checkAndResetBrowser(iterationCount, 0)
+    }
+    
+    WebUI.comment(('已達到設定的執行時間，迴圈結束。總共執行 ' + iterationCount) + ' 次。') // 依 runloop 次數執行
+} else {
+    println(('腳本將依據設定的迴圈次數 (' + runloop) + ' 次) 執行。')
+
+    for (def index : (0..runloop - 1)) {
+        
+		TimeControl.checkPauseTime(0, 0, 0, 20)  // 00:00 ~ 00:20 暫停 , 等待minIO同步新一天的iNews xml
+		
+		println('Loop iteration (1-indexed): ' + (index + 1))
+
+        WebUI.comment(('現在是第 ' + (index + 1)) + ' 次迴圈執行')
+		if (GlobalVariable.metateam == 1) {
+			specificAccount = "test1"+UserNo
+			Title = "節目-"
+			progtype = "新聞"
+			} else if (GlobalVariable.metateam == 2) {
+				specificAccount = "test2"+UserNo
+				progtype = "短帶"
+				Title = "短帶-"
+			}
+
+		//AuthKeywords.ensureLogin(specificAccount, specificEncryptedPassword, specificDomain, true)
+		WebUI.callTestCase(findTestCase('05BaseTest/登入'), [('accountParam') : specificAccount, ('passwordParam') : specificEncryptedPassword,('domainParam') : specificDomain,('nodeParam') : node], FailureHandling.STOP_ON_FAILURE)
+		
+		//WebUI.click(findTestObject('Header/資源組下拉'))
+		
+		//DropdownHelper.selectVisibleDropdownOptionScroll("新聞部")
+		
+        //WebUI.callTestCase(findTestCase('05BaseTest/新增媒資上傳隨機無迴圈'), [:], FailureHandling.STOP_ON_FAILURE)
+		def correspondingTitle = WebUI.callTestCase(findTestCase('05BaseTest/新增媒資上傳CF同MXF'), [('titleParam') : Title, ('videoParam') : VideoID,('progParam') : progtype, ('indexParam') : index], FailureHandling.STOP_ON_FAILURE)
+
+		if (GlobalVariable.metateam == 2) {
+			
+			WebUI.callTestCase(findTestCase('05BaseTest/登出'), [:], FailureHandling.STOP_ON_FAILURE)
+			
+			WebUI.callTestCase(findTestCase('05BaseTest/登入'), [('accountParam') : specificAccount, ('passwordParam') : specificEncryptedPassword,('domainParam') : specificDomain,('nodeParam') : node], FailureHandling.STOP_ON_FAILURE)
+			
+			WebUI.waitForElementClickable(findTestObject('主畫面/未公開媒資'), 30)
+			
+			WebUI.click(findTestObject('主畫面/未公開媒資'))
+			
+			WebUIExtensions.retryClick(findTestObject('主畫面/未公開媒資頁/搜尋媒資'))
+			
+			//WebUIExtensions.retryClick(findTestObject('主畫面/未公開媒資頁/重置'))
+			
+			WebUI.delay(60)
+			
+			WebUIExtensions.setTextByLabel('關鍵字', correspondingTitle)
+			
+			WebUIExtensions.retryClick(findTestObject('主畫面/未公開媒資頁/搜尋'))
+			
+			def FinalTitle = WebUI.callTestCase(findTestCase('05BaseTest/媒資短帶timecode抓取'),[('titleParam') : correspondingTitle], FailureHandling.STOP_ON_FAILURE)
+			
+			WebUI.comment("關鍵字: " + FinalTitle)
+		}
+        WebUI.comment('已完成:新增媒資')
+		//  每一圈都執行登出 (不關閉瀏覽器)
+		WebUI.callTestCase(findTestCase('05BaseTest/登出'), [:], FailureHandling.STOP_ON_FAILURE)
+		// 呼叫 Keyword：只有第 10, 20... 圈會執行 closeBrowser
+		WebUIExtensions.checkAndResetBrowser(index + 1, runloop)
+    }
+}
+
+
+
+if (GlobalVariable.CloseBrowser) {WebUI.closeBrowser()}
+

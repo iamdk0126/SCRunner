@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表公開媒資</description>
+   <name>UICase36-任務列表公開媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>955fd2ad-0930-4d89-b4d2-d0ec0529fa45</testCaseGuid>
+</TestCaseEntity>

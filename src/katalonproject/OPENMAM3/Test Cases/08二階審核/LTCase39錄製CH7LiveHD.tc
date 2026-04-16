@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>錄製CH7_LiveHD</description>
+   <name>LTCase39錄製CH7LiveHD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2a9dc71-4d35-4a80-8f66-edc6070cb051</testCaseGuid>
+</TestCaseEntity>

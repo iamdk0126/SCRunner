@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>匯出媒資下拉</name>
+   <tag></tag>
+   <elementGuidId>c83c4939-b49a-4d4c-8454-84ddc71fb01f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-popover-message-title > div > div.ant-select.ant-select-single.ant-select-show-arrow > div.ant-select-selector</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='英文網頁資料'])[2]/following::div[14]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'ant-popover')]//p[text()='匯出媒資至OpenMAM_TW+']/following::div[contains(@class,'ant-select-selector')][1]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df9808c7-4ec7-479e-a6f7-392ca5bd66d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>8400edee-ad53-46a2-a69d-9c134f49f00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>請選擇</value>
+      <webElementGuid>89ae4f2e-266e-4a51-a0ba-bd2f2062ab7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'ant-popover')]//p[text()='匯出媒資至OpenMAM_TW+']/following::div[contains(@class,'ant-select-selector')][1]&#xd;
+</value>
+      <webElementGuid>aeadf230-e09c-4765-91da-a9bbb464c583</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='英文網頁資料'])[2]/following::div[14]</value>
+      <webElementGuid>317c8150-8f1c-4ba3-83b4-43fe98bd586f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='行銷類別'])[2]/following::div[17]</value>
+      <webElementGuid>b16ac430-a293-41c9-b419-779f2d3851c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='午間新聞'])[1]/preceding::div[4]</value>
+      <webElementGuid>b6df69e6-864f-459a-9678-bb752cf71a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>c21c7014-c8b3-4e34-98ff-69b57a09a959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '請選擇' or . = '請選擇')]</value>
+      <webElementGuid>69814c98-d069-4cd7-9bba-cf92b3bc6b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

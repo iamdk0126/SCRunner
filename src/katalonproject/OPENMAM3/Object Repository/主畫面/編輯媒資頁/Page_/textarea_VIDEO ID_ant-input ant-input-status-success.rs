@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_VIDEO ID_ant-input ant-input-status-success</name>
+   <tag></tag>
+   <elementGuidId>227d420b-df78-453a-9329-08bf9e0d74bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.ant-input.ant-input-status-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='metaId_1']/div/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>52b35c30-8345-4f2c-ab11-a104be9cce2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>請輸入內容</value>
+      <webElementGuid>04325b8f-da80-4cb7-bae3-3504d1dea3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-status-success</value>
+      <webElementGuid>77a391d2-95ef-4598-8b03-7676f1c6ac58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;metaId_1&quot;)/div[@class=&quot;ant-space-item&quot;]/div[1]/textarea[@class=&quot;ant-input ant-input-status-success&quot;]</value>
+      <webElementGuid>b2baeef3-7f33-4d0e-aa6d-4b12dbecb128</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metaId_1']/div/div/textarea</value>
+      <webElementGuid>6687a5fc-f736-4980-8b26-d9933fd69cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div/div/textarea</value>
+      <webElementGuid>11e20e94-8ef4-4ebd-8351-8bf8dfaa0473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = '請輸入內容']</value>
+      <webElementGuid>e91d78e8-2eed-49fe-a22f-682affba1588</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>剪輯影片EDL</description>
+   <name>LTCase44剪輯影片EDL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0122f813-a8c6-4bb0-8d95-6f84162cc500</testCaseGuid>
+</TestCaseEntity>

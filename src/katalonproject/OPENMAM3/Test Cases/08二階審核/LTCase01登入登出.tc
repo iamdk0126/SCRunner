@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表</description>
+   <name>LTCase01登入登出</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04506e83-af61-4cb1-a58a-532faba6cbb4</testCaseGuid>
+</TestCaseEntity>

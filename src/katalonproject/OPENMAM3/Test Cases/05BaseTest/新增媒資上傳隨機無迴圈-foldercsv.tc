@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增媒資上傳隨機無迴圈-foldercsv</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce70833b-fd79-419a-99af-2f3432018638</testCaseGuid>
+</TestCaseEntity>

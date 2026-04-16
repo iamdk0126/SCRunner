@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>root初始化設定建立</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>799ecffd-b2d0-4fe4-9496-a07653592c12</testCaseGuid>
+</TestCaseEntity>

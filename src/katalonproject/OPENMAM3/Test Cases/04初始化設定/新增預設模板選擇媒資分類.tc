@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增預設模板選擇媒資分類</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>856b9e70-8fe0-4f82-bbff-a9b73d5e4c51</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-待審清單影片剪輯</description>
+   <name>UICase02-待審清單影片剪輯</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8dcb111-e2ee-4c54-ad88-1b17b48a0d1d</testCaseGuid>
+</TestCaseEntity>

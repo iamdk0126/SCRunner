@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpenShare匯入分析VideoID選擇媒資分類</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2b6e61d-e38b-4338-bb8c-2c15374e1493</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增(空)媒資(無法上傳檔案)</description>
+   <name>TCase05_old</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12fb16cd-cc9f-4745-9cdb-15c67c7daa05</testCaseGuid>
+</TestCaseEntity>

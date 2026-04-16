@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>新增媒資錄製影片SDCH5TC</description>
+   <name>LTCase37錄製CH5LiveSDTC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d013741-c4af-48b1-840c-24bf9a5a0cc3</testCaseGuid>
+</TestCaseEntity>

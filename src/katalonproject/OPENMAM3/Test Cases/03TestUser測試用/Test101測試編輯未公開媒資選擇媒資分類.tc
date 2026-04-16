@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101測試編輯未公開媒資選擇媒資分類</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0561a3a-e4bf-484f-9dbf-cf33f51a4a06</testCaseGuid>
+</TestCaseEntity>

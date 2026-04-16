@@ -1,0 +1,135 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import java.util.ArrayList as ArrayList
+
+// 1. 獲取 MediaType List
+List CharNameList = GlobalVariable.CharName
+
+int count = CharNameList.size()
+
+List Team1BossList = GlobalVariable.Team1Boss
+
+int Bosscount = Team1BossList.size()
+
+List Team1LeaderList = GlobalVariable.Team1Leader
+
+int Leadercount = Team1LeaderList.size()
+
+List Team1UserList = GlobalVariable.Team1User
+
+int Usercount = Team1UserList.size()
+
+println('Total items in CharName: ' + count)
+
+WebUI.click(findTestObject('Header/個人頭像'))
+
+WebUI.click(findTestObject('Header/個人頭像下拉選單/系統設定'), FailureHandling.OPTIONAL)
+
+
+if (!WebUI.waitForElementVisible(findTestObject('系統設定/角色管理'), 2, FailureHandling.OPTIONAL)) {
+	
+		WebUI.click(findTestObject('系統設定/使用者設定'))
+	}
+
+WebUI.click(findTestObject('系統設定/角色管理'))
+
+WebUI.delay(2)
+
+'指向第2個資源組別'
+WebUI.click(findTestObject('ResourceTeam/Team1'))
+
+WebUI.delay(2)
+
+// 2. Create the for loop from 1 to count
+for (int i = 1; i <= count; i++) {
+    println('Loop iteration (1-indexed): ' + i)
+
+    // 從 keyList 中獲取當前的 key (注意索引是 i-1)
+    String currentName = CharNameList.get(i - 1)
+
+    println('Processing CharName: ' + currentName)
+
+    WebUI.click(findTestObject('系統設定/角色管理頁/Page_/新增角色'))
+
+    // --- Start of your repeatable test case actions ---
+    WebUI.click(findTestObject('系統設定/角色管理頁/Page_/新增角色角色名稱'))
+
+    // 使用從 Map 中取出的當前 Code 和 TypeDescription
+    WebUI.setText(findTestObject('系統設定/角色管理頁/Page_/新增角色角色名稱'), currentName)
+
+    if (i == 1) {
+        for (int j = 1; j <= Bosscount; j++) {
+            String currentBoss = Team1BossList.get(j - 1)
+
+            WebUI.setText(findTestObject('系統設定/角色管理頁/Page_/輸入選擇成員'), currentBoss)
+
+            WebUI.click(findTestObject('系統設定/角色管理頁/Page_/搜尋選擇成員'))
+
+            //WebUI.click(findTestObject('系統設定/角色管理頁/Page_/勾選選擇成員'))
+			CustomKeywords.'custom.TableKeywords.clickCheckboxByName'(currentBoss)
+
+            WebUI.click(findTestObject('系統設定/角色管理頁/Page_/清除選擇成員內容'))
+        }
+    }
+    
+    if (i == 2) {
+        for (int j = 1; j <= Leadercount; j++) {
+            String currentLeader = Team1LeaderList.get(j - 1)
+
+            WebUI.setText(findTestObject('系統設定/角色管理頁/Page_/輸入選擇成員'), currentLeader)
+
+            WebUI.click(findTestObject('系統設定/角色管理頁/Page_/搜尋選擇成員'))
+
+            //WebUI.click(findTestObject('系統設定/角色管理頁/Page_/勾選選擇成員'))
+			CustomKeywords.'custom.TableKeywords.clickCheckboxByName'(currentLeader)
+			
+            WebUI.click(findTestObject('系統設定/角色管理頁/Page_/清除選擇成員內容'))
+        }
+    }
+    
+    if (i == 3) {
+        for (int j = 1; j <= Usercount; j++) {
+            String currentUser = Team1UserList.get(j - 1)
+
+            WebUI.setText(findTestObject('系統設定/角色管理頁/Page_/輸入選擇成員'), currentUser)
+
+            WebUI.click(findTestObject('系統設定/角色管理頁/Page_/搜尋選擇成員'))
+
+            //WebUI.click(findTestObject('系統設定/角色管理頁/Page_/勾選選擇成員'))
+			CustomKeywords.'custom.TableKeywords.clickCheckboxByName'(currentUser)
+			
+            WebUI.click(findTestObject('系統設定/角色管理頁/Page_/清除選擇成員內容'))
+        }
+    }
+    
+    WebUI.check(findTestObject('系統設定/角色管理頁/Page_/系統權限checkbox'))
+
+    WebUI.delay(1)
+
+    WebUI.click(findTestObject('系統設定/角色管理頁/Page_/媒資權限'))
+
+    WebUI.check(findTestObject('系統設定/角色管理頁/Page_/媒資權限checkbox'))
+
+    WebUI.click(findTestObject('系統設定/角色管理頁/Page_/新增角色建立'))
+
+    WebUI.delay(2)
+}
+
+println('Loop finished.')
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>新增iNews匯入元數據配對</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db750c33-f36e-4bb1-bd8f-f8b67d485907</testCaseGuid>
+</TestCaseEntity>

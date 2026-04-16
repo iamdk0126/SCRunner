@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_VTR_vtr-start-time</name>
+   <tag></tag>
+   <elementGuidId>774b355a-5b5d-4588-8b1a-64129e9b99d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[normalize-space(.)='VTR時間區間']/ancestor::div[@class='ant-form-item']&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vtr-duration-time</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//label[normalize-space(.)='VTR時間區間']/ancestor::div[@class='ant-form-item']//input[@type='tel'])[1]&#xd;
+&#xd;
+&#xd;
+&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1c480997-e9a5-4da2-aeaa-35b4d32dad0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>aa89c126-f856-4b79-a408-ef5e2d9e1ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//label[normalize-space(.)='VTR時間區間']/ancestor::div[@class='ant-form-item']//input[@type='tel'])[1]&#xd;
+&#xd;
+&#xd;
+&#xd;
+</value>
+      <webElementGuid>4d4e6cdb-18b3-478c-b473-77a6322101da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>9824b148-6600-4c5b-aa78-934af38ef4ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='vtr-duration-time']</value>
+      <webElementGuid>4a1f90f1-a57f-4f83-bcae-0f60ce437872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/input</value>
+      <webElementGuid>f16bc511-a15d-4c40-ba46-d087709d9ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'vtr-duration-time']</value>
+      <webElementGuid>71068b51-1682-40ee-8c5e-e7c94bacf013</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

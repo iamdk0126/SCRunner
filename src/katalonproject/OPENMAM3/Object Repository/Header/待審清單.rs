@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>待審清單</name>
+   <tag></tag>
+   <elementGuidId>78a3f08b-9c26-4982-bacc-3720ac604e9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[contains(@class, 'right-menu')]/li[2]//button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.menu-btn___LZR4p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/header/div[2]/ul/li/div/span/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f8766d08-dc52-4042-abb8-9d2224e45857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-btn___LZR4p</value>
+      <webElementGuid>6da0a1e3-3e5c-44ef-ba92-8607e33d3659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[contains(@class, 'right-menu')]/li[2]//button</value>
+      <webElementGuid>d117be9d-315a-4d94-82b3-b62d89476b12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/header/div[2]/ul/li/div/span/button</value>
+      <webElementGuid>821b0a13-fb93-4be7-9652-81df964662f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新聞部'])[1]/preceding::button[2]</value>
+      <webElementGuid>9913d4b0-e0ac-48d4-aeae-69caa09ebd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新增媒資'])[1]/preceding::button[2]</value>
+      <webElementGuid>aae7580c-dcf5-4f19-9e04-5dd568b4988e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>2e66d44a-3e91-46a8-9e04-9705ac6c9a9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表</description>
+   <name>LTCase03切換功能表</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d715ea11-e84c-4a8e-a184-7f9da8ff0293</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開手動匯出媒資</description>
+   <name>LTCase43公開手動匯出媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61ff3ced-7348-48be-a6d0-a2939d8b61d0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>用途下拉</name>
+   <tag></tag>
+   <elementGuidId>9d9719ae-fe3a-4d6f-9979-9dd49ee938ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-in-form-item.ant-select-focused.ant-select-single.ant-select-allow-clear.ant-select-show-arrow.ant-select-open > div.ant-select-selector</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='metaId_19']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='用途'])[3]/following::div[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>47c35613-de45-419f-a6cf-979582e3cb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>32d44ceb-791d-4ec5-8826-8ff77e251bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>請選擇</value>
+      <webElementGuid>92d104c1-acf3-4b7e-9589-f375d347bc0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='用途'])[3]/following::div[8]</value>
+      <webElementGuid>9b3a867b-0c6c-4407-8706-cfca6487ae4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpathbak</name>
+      <type>Main</type>
+      <value>//label[normalize-space(text())='用途']/ancestor::div[contains(@class,'ant-form-item')]//div[contains(@class,'ant-select-selector')]</value>
+      <webElementGuid>34d63d53-5308-44fb-a40c-cf48183e199b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metaId_19']/div/div/div/div</value>
+      <webElementGuid>a00b6579-633a-4c22-be36-06230c97cb2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='用途'])[3]/following::div[8]</value>
+      <webElementGuid>291dda15-360a-4b65-b8d9-30929fcfb16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='公視'])[11]/following::div[11]</value>
+      <webElementGuid>2697b96b-9a21-4c8c-aa48-8867b8ae37fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='類型'])[3]/preceding::div[1]</value>
+      <webElementGuid>fcc0602a-c52e-466d-a8a0-355a96eb2484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>b084c8d7-06c7-40b3-89cb-d23cc1c80eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '請選擇' or . = '請選擇')]</value>
+      <webElementGuid>78669a29-924a-4db1-8b88-4eeeb5a9f5dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

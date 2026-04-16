@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>L2回調審核退回X</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>989fee0b-1b01-47ad-a081-7363c99e5157</testCaseGuid>
+</TestCaseEntity>

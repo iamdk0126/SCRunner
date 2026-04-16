@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>磁帶類型下拉</name>
+   <tag></tag>
+   <elementGuidId>0e7d4888-7657-49f1-b525-9f2f99cd7ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='磁帶類型'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[contains(.,'磁帶類型')]/ancestor::div[contains(@class,'ant-form-item-row')]//div[contains(@class,'ant-select-selector')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8559e66-21be-4273-b4c0-a5ab5255e67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>4eb013e8-7e42-458b-a1d3-a20257ba9c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>請選擇</value>
+      <webElementGuid>9b708a23-fcdc-4254-8d6f-1a4c2af99efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[contains(.,'磁帶類型')]/ancestor::div[contains(@class,'ant-form-item-row')]//div[contains(@class,'ant-select-selector')]</value>
+      <webElementGuid>e53f16e2-ce07-4b1a-8f66-a9e540ec44a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='磁帶類型'])[1]/following::div[5]</value>
+      <webElementGuid>ad9e5e5c-1ce6-4999-9769-16b18724fdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='主檔建立者'])[1]/following::div[11]</value>
+      <webElementGuid>1b5e3a6a-3384-4208-913d-3acac12f91ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='取 消'])[1]/preceding::div[1]</value>
+      <webElementGuid>4955c1f4-1cac-4f28-be41-352cc9c755ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>e36ef846-0b0f-4c86-a936-6fbbb4893288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '請選擇' or . = '請選擇')]</value>
+      <webElementGuid>f5db9e9b-5fad-41a3-a408-8306529efd97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

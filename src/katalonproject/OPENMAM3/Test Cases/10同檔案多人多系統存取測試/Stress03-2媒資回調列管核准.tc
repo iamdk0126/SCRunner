@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>媒資回調列管核准</description>
+   <name>Stress03-2媒資回調列管核准</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b4b712e-1f44-4496-b8d8-97af021c3075</testCaseGuid>
+</TestCaseEntity>

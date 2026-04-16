@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101新增其他媒資設定吸菸卡設定</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f432df30-4f36-41e4-8efe-15cee57556c5</testCaseGuid>
+</TestCaseEntity>

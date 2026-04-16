@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>時間軸now</name>
+   <tag></tag>
+   <elementGuidId>f8758efe-bb13-48f9-8dd4-7d1554acb13a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'slider-now-bar___2Dn4R']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-col.ant-col-10 > div.container___35AWl > div.container___1U8j_ > div.slider___B98KU > div.slider-now___1PZwh > div.slider-now-bar___2Dn4R</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7641ddc8-f187-4cf7-9834-37fdc7b4c974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider-now-bar___2Dn4R</value>
+      <webElementGuid>fc726a69-e7ee-4d6d-8e72-f1805f39b673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;container___1OVvb&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-10&quot;]/div[@class=&quot;container___35AWl&quot;]/div[@class=&quot;container___1U8j_&quot;]/div[@class=&quot;slider___B98KU&quot;]/div[@class=&quot;slider-now___1PZwh&quot;]/div[@class=&quot;slider-now-bar___2Dn4R&quot;]</value>
+      <webElementGuid>cea2ba05-2a16-4d88-a69a-f2ecc72a0cbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>621174e4-9de0-4c5e-bb5b-fd3d5dc8741e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

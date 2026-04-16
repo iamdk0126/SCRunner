@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-未公開檢視無列管媒資</description>
+   <name>UICase38-未公開檢視無列管媒資</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2ed8353-ad2d-4664-bce9-8920ed2486e1</testCaseGuid>
+</TestCaseEntity>

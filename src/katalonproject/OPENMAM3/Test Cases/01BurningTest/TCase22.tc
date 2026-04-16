@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>公開媒資(回調無列管-剪輯一鍵回調-核准)</description>
+   <name>TCase22</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e24c2ba3-a942-4c46-838f-ea1e0c193a60</testCaseGuid>
+</TestCaseEntity>

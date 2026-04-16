@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登入登出</description>
+   <name>Test101新增其他媒資設定元數據配對</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>653ee3a5-74fb-4099-a610-51f3f0fbf056</testCaseGuid>
+</TestCaseEntity>

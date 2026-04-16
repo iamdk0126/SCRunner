@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>未公開媒資(列管送播-退回)</description>
+   <name>TCase31</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65c06b65-f9c1-4b13-904f-17b63035b7e4</testCaseGuid>
+</TestCaseEntity>

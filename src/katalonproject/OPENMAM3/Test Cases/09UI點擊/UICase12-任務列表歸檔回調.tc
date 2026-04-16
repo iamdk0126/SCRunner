@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>切換功能表-任務列表歸檔回調</description>
+   <name>UICase12-任務列表歸檔回調</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ddfb3f1e-cbd7-47b3-ae78-4bed9b3005e0</testCaseGuid>
+</TestCaseEntity>

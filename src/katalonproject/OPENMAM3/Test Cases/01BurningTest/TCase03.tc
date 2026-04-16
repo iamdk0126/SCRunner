@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>功能頁切換</description>
+   <name>TCase03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a804d5d1-c1c9-4e13-996a-2d33dfa72a7f</testCaseGuid>
+</TestCaseEntity>

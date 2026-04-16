@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>錄製CH1_VTRSD</description>
+   <name>LTCase35錄製CH1VTRSD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2510aa97-ebc0-4fe2-b1f1-7a3955a8746d</testCaseGuid>
+</TestCaseEntity>

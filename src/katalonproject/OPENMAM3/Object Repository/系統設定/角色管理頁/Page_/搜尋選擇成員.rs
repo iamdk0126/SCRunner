@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>搜尋選擇成員</name>
+   <tag></tag>
+   <elementGuidId>43d4b8f6-8754-4b5f-b590-b56aaf116a25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-col.ant-col-12 > div > span.ant-input-group-wrapper.ant-input-search > span.ant-input-wrapper.ant-input-group > span.ant-input-group-addon > button.ant-btn.ant-btn-default.ant-btn-icon-only.ant-input-search-button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;container___2BPW7&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-12&quot;]/div[1]/span[@class=&quot;ant-input-group-wrapper ant-input-search&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group&quot;]/span[@class=&quot;ant-input-group-addon&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-icon-only ant-input-search-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7c8e618-b38b-4985-93fe-385504304872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>32ccfa95-2298-49a5-8b89-d7bf1fa42d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default ant-btn-icon-only ant-input-search-button</value>
+      <webElementGuid>f9e467fb-9e55-415a-a1ef-e282c4cde054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;container___2BPW7&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-12&quot;]/div[1]/span[@class=&quot;ant-input-group-wrapper ant-input-search&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group&quot;]/span[@class=&quot;ant-input-group-addon&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-icon-only ant-input-search-button&quot;]</value>
+      <webElementGuid>231cad42-edb2-4dc7-80d0-dbbdf74e0df3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>d4ea5632-17b0-4ab7-922f-a3aa3906472a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇成員:'])[1]/following::button[1]</value>
+      <webElementGuid>f14125fa-9e7e-4a11-806d-b5dcd62054bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='禁止'])[3]/following::button[1]</value>
+      <webElementGuid>1832435a-f991-4954-9c7e-85fd3e9fc1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='名稱'])[1]/preceding::button[1]</value>
+      <webElementGuid>644199b6-34c2-4a90-9775-7feefce6ea8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='部門'])[1]/preceding::button[1]</value>
+      <webElementGuid>3fb6354e-9a31-469c-ac93-1aeb76e54bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span[2]/button</value>
+      <webElementGuid>6e8870cc-4aaa-4d90-bdbc-1f9e16ac0526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>4d802000-e294-48ad-845b-ea49c8798b5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
